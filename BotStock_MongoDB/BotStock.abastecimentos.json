@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "69e6f94cb0ac6b88981b0606"
+  },
+  "lente": "Air Optix | PWR 1 | BC 2 | Ø 3",
+  "quantidade": "2",
+  "validade": "24/04/2026",
+  "responsavel": "Amanda teste",
+  "email_responsavel": "a",
+  "data_hora_abastecimento": "21/04/2026 01:13:00",
+  "status": "Abastecido"
+},
+{
+  "_id": {
+    "$oid": "69e9f678056b34c8b6dd27b7"
+  },
+  "lente": "Air Optix | PWR 1 | BC 2 | Ø 3",
+  "quantidade": "4",
+  "validade": "23/04/2026",
+  "responsavel": "Amanda teste",
+  "email_responsavel": "a",
+  "data_hora_abastecimento": "23/04/2026 07:37:44",
+  "status": "Abastecido"
+},
+{
+  "_id": {
+    "$oid": "69f432d7d9ba19a97a7b437c"
+  },
+  "lente": "BauschLomb | PWR +0.50 | BC 8.5 | Ø 14.2",
+  "quantidade": "3",
+  "validade": "22/05/2026",
+  "responsavel": "Amanda teste g",
+  "email_responsavel": "a",
+  "data_hora_abastecimento": "01/05/2026 01:57:59",
+  "status": "Abastecido"
+},
+{
+  "_id": {
+    "$oid": "69f432ffd9ba19a97a7b437d"
+  },
+  "lente": "BauschLomb | PWR +0.50 | BC 8.5 | Ø 14.2",
+  "quantidade": "3",
+  "validade": "29/05/2026",
+  "responsavel": "Amanda teste g",
+  "email_responsavel": "a",
+  "data_hora_abastecimento": "01/05/2026 01:58:39",
+  "status": "Abastecido"
+},
+{
+  "_id": {
+    "$oid": "69f4331ed9ba19a97a7b437e"
+  },
+  "lente": "BauschLomb | PWR +0.50 | BC 8.5 | Ø 14.2",
+  "quantidade": "3",
+  "validade": "28/05/2026",
+  "responsavel": "Amanda teste g",
+  "email_responsavel": "a",
+  "data_hora_abastecimento": "01/05/2026 01:59:10",
+  "status": "Abastecido"
+},
+{
+  "_id": {
+    "$oid": "69f43cadef06f2f782714fc3"
+  },
+  "lente": "BauschLomb | PWR +1.00 | BC 8.5 | Ø 14.2",
+  "quantidade": "1",
+  "validade": "28/05/2026",
+  "responsavel": "Amanda teste g",
+  "email_responsavel": "a",
+  "data_hora_abastecimento": "01/05/2026 02:39:57",
+  "status": "Abastecido"
+},
+{
+  "_id": {
+    "$oid": "69f43cbcef06f2f782714fc4"
+  },
+  "lente": "BauschLomb | PWR +1.00 | BC 8.5 | Ø 14.2",
+  "quantidade": "3",
+  "validade": "28/05/2026",
+  "responsavel": "Amanda teste g",
+  "email_responsavel": "a",
+  "data_hora_abastecimento": "01/05/2026 02:40:12",
+  "status": "Abastecido"
+},
+{
+  "_id": {
+    "$oid": "69f43cd1ef06f2f782714fc5"
+  },
+  "lente": "BauschLomb | PWR +1.00 | BC 8.5 | Ø 14.2",
+  "quantidade": "3",
+  "validade": "29/05/2026",
+  "responsavel": "Amanda teste g",
+  "email_responsavel": "a",
+  "data_hora_abastecimento": "01/05/2026 02:40:33",
+  "status": "Abastecido"
+},
+{
+  "_id": {
+    "$oid": "69f43d4728ce3432735aac96"
+  },
+  "lente": "BauschLomb | PWR -0.50 | BC 8.5 | Ø 14.2",
+  "quantidade": "5",
+  "validade": "15/05/2026",
+  "responsavel": "Amanda teste g",
+  "email_responsavel": "a",
+  "data_hora_abastecimento": "01/05/2026 02:42:31",
+  "status": "Abastecido"
+}]

@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "69eb5fd54e165998bca8b8bf"
+  },
+  "pwr": "+0.50",
+  "bc": "8.5",
+  "diam": "14.2",
+  "nicho": "1",
+  "fornecedor": "BauschLomb",
+  "responsavel": "Amanda teste g",
+  "data": "24/04/2026 09:19:33"
+},
+{
+  "_id": {
+    "$oid": "69eb5ff34e165998bca8b8c0"
+  },
+  "pwr": "-0.50",
+  "bc": "8.5",
+  "diam": "14.2",
+  "nicho": "2",
+  "fornecedor": "BauschLomb",
+  "responsavel": "Amanda teste g",
+  "data": "24/04/2026 09:20:03"
+},
+{
+  "_id": {
+    "$oid": "69eb601a4e165998bca8b8c1"
+  },
+  "pwr": "+1.00",
+  "bc": "8.5",
+  "diam": "14.2",
+  "nicho": "3",
+  "fornecedor": "BauschLomb",
+  "responsavel": "Amanda teste g",
+  "data": "24/04/2026 09:20:42"
+}]

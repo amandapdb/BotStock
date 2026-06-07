@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "69d77bda4c9051dffe93ee71"
+  },
+  "email": "aperini",
+  "senha": "Doka123.",
+  "tipo": "funcionario",
+  "nome_completo": "Amanda Perini"
+},
+{
+  "_id": {
+    "$oid": "69d77c0e4c9051dffe93ee73"
+  },
+  "email": "beashiley",
+  "senha": "Be@123456789",
+  "tipo": "gerente",
+  "nome_completo": "Beatriz Ashiley"
+},
+{
+  "_id": {
+    "$oid": "69d77c364c9051dffe93ee75"
+  },
+  "email": "ardelgado",
+  "senha": "Arthur0102",
+  "tipo": "gerente",
+  "nome_completo": "Arthur Delgado"
+},
+{
+  "_id": {
+    "$oid": "69d77c5a4c9051dffe93ee77"
+  },
+  "email": "hlopes",
+  "senha": "123456",
+  "tipo": "funcionario",
+  "nome_completo": "Henrique Lopes"
+},
+{
+  "_id": {
+    "$oid": "69d77c734c9051dffe93ee79"
+  },
+  "email": "pemanuel",
+  "senha": "professor",
+  "tipo": "funcionario",
+  "nome_completo": "Paulo Emanuel"
+},
+{
+  "_id": {
+    "$oid": "69e9ff1da5e1b8375c50c833"
+  },
+  "email": "a",
+  "senha": "a",
+  "tipo": "gerente",
+  "nome_completo": "Amanda teste g"
+},
+{
+  "_id": {
+    "$oid": "69e9ff32a5e1b8375c50c834"
+  },
+  "email": "s",
+  "senha": "s",
+  "tipo": "funcionario",
+  "nome_completo": "Amanda teste f"
+},
+{
+  "_id": {
+    "$oid": "69ea00784adea2f10d44a865"
+  },
+  "email": "w",
+  "senha": "w",
+  "tipo": "funcionario",
+  "nome_completo": "Amanda teste criado"
+}]

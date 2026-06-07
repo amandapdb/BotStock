@@ -1,0 +1,125 @@
+[{
+  "_id": {
+    "$oid": "69e6991359ca55bfa13e74e5"
+  },
+  "responsavel": "Amanda teste",
+  "email_responsavel": "a",
+  "data_hora": "20/04/2026 18:22:27",
+  "itens": [
+    {
+      "lente": "Air Optix | PWR 1 | BC 2 | Ø 3",
+      "quantidade": "2"
+    },
+    {
+      "lente": "Air Optix | PWR 1 | BC 2 | Ø 3",
+      "quantidade": "3"
+    },
+    {
+      "lente": "Air Optix | PWR 1 | BC 2 | Ø 3",
+      "quantidade": "5"
+    },
+    {
+      "lente": "Air Optix | PWR 1 | BC 2 | Ø 3",
+      "quantidade": "2"
+    }
+  ],
+  "status": "Pendente"
+},
+{
+  "_id": {
+    "$oid": "69e69e06c8fcfedcbeea132c"
+  },
+  "responsavel": "Amanda teste",
+  "email_responsavel": "a",
+  "data_hora": "20/04/2026 18:43:34",
+  "itens": [
+    {
+      "lente": "Acuvue Oasys | PWR 1 | BC 2 | Ø 3",
+      "quantidade": "2"
+    }
+  ],
+  "status": "Pendente"
+},
+{
+  "_id": {
+    "$oid": "69e69ff3ab258491813fd7d8"
+  },
+  "responsavel": "Amanda teste",
+  "email_responsavel": "a",
+  "data_hora": "20/04/2026 18:51:47",
+  "itens": [
+    {
+      "lente": "Air Optix | PWR 1 | BC 2 | Ø 3",
+      "quantidade": "4"
+    }
+  ],
+  "status": "Pendente"
+},
+{
+  "_id": {
+    "$oid": "69e6ec907194ff552ef036e7"
+  },
+  "responsavel": "Amanda teste",
+  "email_responsavel": "a",
+  "data_hora": "21/04/2026 00:18:40",
+  "itens": [
+    {
+      "lente": "Air Optix | PWR 1 | BC 2 | Ø 3",
+      "quantidade": "4"
+    }
+  ],
+  "status": "Pendente"
+},
+{
+  "_id": {
+    "$oid": "69e6ed6a2cb75282061868a2"
+  },
+  "responsavel": "Amanda teste",
+  "email_responsavel": "a",
+  "data_hora": "21/04/2026 00:22:18",
+  "itens": [
+    {
+      "lente": "Air Optix | PWR 1 | BC 2 | Ø 3",
+      "quantidade": "4"
+    },
+    {
+      "lente": "Air Optix | PWR 1 | BC 2 | Ø 3",
+      "quantidade": "1"
+    }
+  ],
+  "status": "Pendente"
+},
+{
+  "_id": {
+    "$oid": "69e9f666056b34c8b6dd27b6"
+  },
+  "responsavel": "Amanda teste",
+  "email_responsavel": "a",
+  "data_hora": "23/04/2026 07:37:26",
+  "itens": [
+    {
+      "lente": "Air Optix | PWR 1 | BC 2 | Ø 3",
+      "quantidade": "2"
+    },
+    {
+      "lente": "Acuvue Oasys | PWR 1 | BC 2 | Ø 3",
+      "quantidade": "4"
+    }
+  ],
+  "status": "Pendente"
+},
+{
+  "_id": {
+    "$oid": "69f4332dd9ba19a97a7b437f"
+  },
+  "responsavel": "Amanda teste g",
+  "email_responsavel": "a",
+  "data_hora": "01/05/2026 01:59:25",
+  "itens": [
+    {
+      "lente": "BauschLomb | PWR +0.50 | BC 8.5 | Ø 14.2",
+      "quantidade": "2"
+    }
+  ],
+  "status": "Pendente"
+}]
